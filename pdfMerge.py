@@ -1,5 +1,5 @@
 from PyPDF2 import PdfFileMerger
-pdfs = ['pdf1.pdf', 'pdf2.pdf','pdf3.pdf'] #name of those pdfs 
+pdfs = ['pdf1.pdf', 'pdf2.pdf','pdf3.pdf'] #name of those pdfs ..... rename those names 
 #put those pdfs in right  path ....else  the code is not working
 mergePdf = PdfFileMerger()
 
