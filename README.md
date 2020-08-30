@@ -1,6 +1,6 @@
 # pdf-merge  
 if you want merge pdf then why you install an app.  
-just type 5 lines of code 
+
 
 step
 ----------------
