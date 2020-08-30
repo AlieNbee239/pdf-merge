@@ -9,7 +9,7 @@ step
 3. copy the code and past in your python ide  
 4. change the pdf name on this code 
 5. and run  
-# note-- your python file and the pdf fils put in same folder  
+# note-- your python file and the pdf fils are put in same folder  
 ...
 
   
